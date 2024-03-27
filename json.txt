@@ -1,7 +1,7 @@
 1: {
     "title": "Vegan Pasta",
     "description": "A delicious vegan pasta recipe",
-    "category": "Vegan",
+    "category": ["Vegan"],
     "ingredients": [
       {
         "name": "pasta",
