@@ -4,7 +4,7 @@ import { Create } from '../controllers/recipe/recipe.controllers.js';
 
 
 const router = Router();
-router.route("/").post( Create);
+router.route("/create").post( Create);
 // router.route('/getRecipes').get(`getRecipes`);
 // router.route('/getRecipe/:id').get(`getRecipe`);
 // router.route('/updateRecipe/:id').put(`updateRecipe`);
