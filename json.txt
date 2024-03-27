@@ -1,0 +1,45 @@
+1: {
+    "title": "Vegan Pasta",
+    "description": "A delicious vegan pasta recipe",
+    "category": "Vegan",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "200g"
+    },
+    {
+        "name": "olive oil",
+        "quantity": "1 tbsp"
+    },
+    {
+        "name": "onion",
+        "quantity": "1, chopped"
+    },
+    {
+        "name": "garlic",
+        "quantity": "2 cloves, minced"
+    },
+    {
+        "name": "chopped tomatoes",
+        "quantity": "400g can"
+    },
+    {
+        "name": "fresh basil",
+        "quantity": "Handful, torn"
+    }
+],
+    "instructions": [
+        "Cook the pasta according to the packet instructions.",
+        "Meanwhile, heat the olive oil in a pan and sauté the onion and garlic until softened.",
+        "Add the chopped tomatoes and simmer for 10 minutes.",
+        "Drain the pasta and add it to the pan with the sauce. Stir well to combine.",
+        "Serve with the fresh basil sprinkled on top."
+    ],
+    "allergens": [
+        "Gluten"
+    ],
+    "chronicDiseases": [
+        "Celiac disease"
+    ]
+}
+
