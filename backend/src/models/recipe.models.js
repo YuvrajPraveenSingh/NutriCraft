@@ -14,10 +14,10 @@ const recipeSchema = new Schema({
         trim: true
     },
     category:{
-        type:String,
+        type:[String],
         required:true,
         trim: true,
-        default: "General"
+        default: ["General"]
     },
     ingredients:{
         type:[Object],
