@@ -708,3 +708,852 @@
         "Low in Saturated Fat, Protein from Lentils, Fiber from Fermented Batter"
     ]
 }
+
+11: {
+    "title": "Khichdi",
+    "description": "A soothing and nutritious one-pot meal made with lentils and rice, ideal for recovering from illnesses.",
+    "category": ["Indian", "Comfort Food"],
+    "ingredients": [
+        {
+            "name": "split yellow moong dal",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "rice",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "ghee",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "water",
+            "quantity": "3 cups"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Wash and soak dal and rice for 30 minutes.",
+        "Heat ghee in a pressure cooker and add cumin seeds.",
+        "Add grated ginger, turmeric powder, drained dal, and rice. Sauté for 2 minutes.",
+        "Add water, salt, and pressure cook for 3-4 whistles.",
+        "Once cooked, mash slightly, garnish with fresh coriander leaves, and serve hot."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Digestive Disorders, Weak Immunity"
+    ],
+    "goodForHealth": [
+        "Easy to Digest, Provides Protein and Carbohydrates"
+    ]
+}
+
+12: {
+    "title": "Turmeric Milk",
+    "description": "A warm and healing drink made with turmeric and milk, known for its anti-inflammatory properties.",
+    "category": ["Indian", "Beverage"],
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "honey",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "ground black pepper",
+            "quantity": "a pinch"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "a pinch"
+        }
+    ],
+    "instructions": [
+        "Heat milk in a saucepan.",
+        "Add turmeric powder, honey, ground black pepper, and cinnamon.",
+        "Stir well and simmer for 5 minutes.",
+        "Strain into a cup and enjoy warm."
+    ],
+    "allergens": [
+        "Dairy"
+    ],
+    "chronicDiseases": [
+        "Inflammation, Respiratory Issues"
+    ],
+    "goodForHealth": [
+        "Anti-inflammatory, Immune-Boosting"
+    ]
+}
+
+13: {
+    "title": "Moong Dal Soup",
+    "description": "A nourishing and easily digestible soup made with split yellow moong dal, beneficial for recovering from illnesses.",
+    "category": ["Indian", "Soup"],
+    "ingredients": [
+        {
+            "name": "split yellow moong dal",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "ghee",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "4 cups"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Wash dal and soak for 30 minutes.",
+        "Heat ghee in a pot and add cumin seeds.",
+        "Add grated ginger, chopped carrot, drained dal, turmeric powder, salt, and water.",
+        "Pressure cook for 3-4 whistles.",
+        "Once cooked, blend to a smooth consistency, garnish with coriander leaves, and serve hot."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Weak Immunity, Digestive Disorders"
+    ],
+    "goodForHealth": [
+        "Easy to Digest, Provides Protein and Vitamins"
+    ]
+}
+
+14: {
+    "title": "Beetroot Salad",
+    "description": "A refreshing salad made with beetroot, carrots, and greens, ideal for detoxifying the body.",
+    "category": ["Indian", "Salad", "Detox"],
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "1, grated"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1, grated"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1, diced"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1, diced"
+        },
+        {
+            "name": "fresh lemon juice",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        },
+        {
+            "name": "black salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "roasted cumin powder",
+            "quantity": "1/2 tsp"
+        }
+    ],
+    "instructions": [
+        "Combine grated beetroot, carrots, diced cucumber, and tomato in a bowl.",
+        "Add fresh lemon juice, black salt, and roasted cumin powder. Toss well to mix.",
+        "Garnish with chopped fresh coriander leaves and serve chilled."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Toxin Buildup"
+    ],
+    "goodForHealth": [
+        "Detoxifying, High in Antioxidants"
+    ]
+}
+
+15: {
+    "title": "Saffron Rice Pudding (Kesar Phirni)",
+    "description": "A soothing and aromatic rice pudding infused with saffron, beneficial for stress relief.",
+    "category": ["Indian", "Dessert", "Stress Relief"],
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "milk",
+            "quantity": "2 cups"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "saffron strands",
+            "quantity": "a pinch, soaked in warm milk"
+        },
+        {
+            "name": "cardamom powder",
+            "quantity": "1/4 tsp"
+        },
+        {
+            "name": "almonds",
+            "quantity": "10-12, sliced"
+        },
+        {
+            "name": "pistachios",
+            "quantity": "10-12, sliced"
+        }
+    ],
+    "instructions": [
+        "Wash rice and soak in water for 30 minutes.",
+        "Boil milk in a heavy-bottomed pan. Add soaked saffron, cardamom powder, and sugar.",
+        "Drain the soaked rice and add to the boiling milk. Cook on low heat until rice is soft and pudding thickens.",
+        "Stir in sliced almonds and pistachios. Cook for a few more minutes.",
+        "Remove from heat and let it cool. Serve chilled garnished with more nuts."
+    ],
+    "allergens": [
+        "Dairy", "Nuts"
+    ],
+    "chronicDiseases": [
+        "Stress, Anxiety"
+    ],
+    "goodForHealth": [
+        "Calming, Rich in Antioxidants"
+    ]
+}
+
+16: {
+    "title": "Garlic Tamarind Soup",
+    "description": "A tangy and comforting soup made with garlic and tamarind, beneficial for relieving cold and flu symptoms.",
+    "category": ["Indian", "Soup", "Cold and Flu"],
+    "ingredients": [
+        {
+            "name": "tamarind pulp",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "6-8, crushed"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "jaggery",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "asafoetida (hing)",
+            "quantity": "a pinch"
+        },
+        {
+            "name": "curry leaves",
+            "quantity": "8-10"
+        },
+        {
+            "name": "mustard seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Soak tamarind pulp in warm water and extract the juice.",
+        "Heat oil in a pan and add mustard seeds and asafoetida.",
+        "Sauté crushed garlic, grated ginger, and curry leaves until aromatic.",
+        "Add tamarind juice, turmeric powder, black pepper, jaggery, salt, and water. Bring to a boil.",
+        "Simmer for 10-12 minutes until flavors meld.",
+        "Garnish with chopped fresh coriander leaves and serve hot."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Cold, Flu"
+    ],
+    "goodForHealth": [
+        "Immune-Boosting, Anti-Inflammatory"
+    ]
+}
+
+17: {
+    "title": "Ginger Lemon Tea",
+    "description": "A soothing tea made with ginger and lemon, helpful for alleviating digestive disorders.",
+    "category": ["Indian", "Beverage", "Digestive Health"],
+    "ingredients": [
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "honey",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "black tea leaves",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "water",
+            "quantity": "1 cup"
+        }
+    ],
+    "instructions": [
+        "Boil water in a saucepan.",
+        "Add grated ginger, black tea leaves, and simmer for 2-3 minutes.",
+        "Strain the tea into a cup and add fresh lemon juice and honey. Stir well and drink hot."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Digestive Disorders"
+    ],
+    "goodForHealth": [
+        "Digestive Aid, Anti-Inflammatory"
+    ]
+}
+
+18: {
+    "title": "Spinach Dal",
+    "description": "A nutritious dal made with spinach and lentils, beneficial for overcoming iron deficiency.",
+    "category": ["Indian", "Main Course", "Iron Deficiency"],
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "1 bunch, chopped"
+        },
+        {
+            "name": "toor dal (split pigeon peas)",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "green chili",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "ghee",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Wash toor dal and pressure cook until soft.",
+        "Heat ghee in a pan and add cumin seeds.",
+        "Sauté chopped onions until golden brown.",
+        "Add chopped tomatoes, chopped spinach, green chili, turmeric powder, and salt. Cook until spinach wilts.",
+        "Add cooked dal and simmer for 5-7 minutes.",
+        "Garnish with chopped fresh coriander leaves and serve hot with rice or roti."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Iron Deficiency Anemia"
+    ],
+    "goodForHealth": [
+        "Rich in Iron, Vitamins"
+    ]
+}
+
+19: {
+    "title": "Pumpkin Soup",
+    "description": "A heart-healthy soup made with pumpkin and spices, beneficial for cardiovascular health.",
+    "category": ["Indian", "Soup", "Heart Health"],
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "2 cups, diced"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "1/4 tsp"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a pot and add cumin seeds.",
+        "Sauté chopped onions, minced garlic, and grated ginger until golden brown.",
+        "Add diced pumpkin, turmeric powder, coriander powder, black pepper, and salt. Cook until pumpkin softens.",
+        "Blend the mixture to a smooth puree.",
+        "Return the puree to the pot, add coconut milk, and simmer for 5-7 minutes.",
+        "Garnish with chopped fresh coriander leaves and serve hot."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Cardiovascular Diseases"
+    ],
+    "goodForHealth": [
+        "Heart-Healthy, Low in Saturated Fat"
+    ]
+}
+
+20: {
+    "title": "Fenugreek Seeds Water",
+    "description": "An herbal drink made with fenugreek seeds, beneficial for managing diabetes.",
+    "category": ["Indian", "Beverage", "Diabetes Management"],
+    "ingredients": [
+        {
+            "name": "fenugreek seeds",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "honey",
+            "quantity": "1 tsp"
+        }
+    ],
+    "instructions": [
+        "Soak fenugreek seeds in water overnight.",
+        "Strain the water in the morning and discard the seeds.",
+        "Add fresh lemon juice and honey to the fenugreek water. Stir well and drink on an empty stomach."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Diabetes"
+    ],
+    "goodForHealth": [
+        "Blood Sugar Regulation, Antioxidant"
+    ]
+}
+
+21: {
+    "title": "Turmeric Cauliflower Rice",
+    "description": "A flavorful and healthy alternative to rice made with cauliflower and turmeric, suitable for an anti-inflammatory diet.",
+    "category": ["Indian", "Side Dish", "Anti-Inflammatory Diet"],
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1 medium head, grated"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "mustard seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "green chili",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "curry leaves",
+            "quantity": "8-10"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped (for garnish)"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a pan and add cumin seeds, mustard seeds, chopped green chili, and curry leaves.",
+        "Add grated cauliflower and turmeric powder. Sauté until cauliflower is cooked.",
+        "Season with salt and garnish with chopped fresh coriander leaves before serving."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Inflammation, Arthritis"
+    ],
+    "goodForHealth": [
+        "Anti-Inflammatory, Low Glycemic Index"
+    ]
+}
+
+22: {
+    "title": "Moringa Smoothie",
+    "description": "A nutrient-rich smoothie made with moringa leaves, beneficial for a boost of essential vitamins and minerals.",
+    "category": ["Indian", "Beverage", "Nutrient Boost"],
+    "ingredients": [
+        {
+            "name": "moringa leaves",
+            "quantity": "1 cup, fresh or dried"
+        },
+        {
+            "name": "banana",
+            "quantity": "1, ripe"
+        },
+        {
+            "name": "mango",
+            "quantity": "1/2, diced"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "honey",
+            "quantity": "1 tbsp (optional)"
+        },
+        {
+            "name": "water or milk",
+            "quantity": "1/2 cup"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients in a blender.",
+        "Blend until smooth and creamy.",
+        "Add more water or milk if needed for desired consistency.",
+        "Sweeten with honey if desired and serve chilled."
+    ],
+    "allergens": [
+        "Dairy"
+    ],
+    "chronicDiseases": [
+        "Nutrient Deficiency"
+    ],
+    "goodForHealth": [
+        "Rich in Vitamins, Antioxidant"
+    ]
+}
+
+23: {
+    "title": "Ginger-Lemon Rasam",
+    "description": "A tangy South Indian soup with ginger and lemon, effective for relieving cold and flu symptoms.",
+    "category": ["Indian", "Soup", "Cold and Flu Relief"],
+    "ingredients": [
+        {
+            "name": "toor dal (split pigeon peas)",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1-inch piece, grated"
+        },
+        {
+            "name": "green chili",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "asafoetida (hing)",
+            "quantity": "a pinch"
+        },
+        {
+            "name": "curry leaves",
+            "quantity": "8-10"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        }
+    ],
+    "instructions": [
+        "Cook toor dal until soft and mash it well.",
+        "Heat oil in a pan and add cumin seeds, asafoetida, chopped tomatoes, grated ginger, chopped green chili, turmeric powder, and curry leaves.",
+        "Add cooked dal, salt, and water. Simmer for 10 minutes.",
+        "Stir in lemon juice and garnish with chopped fresh coriander leaves before serving."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Cold, Flu"
+    ],
+    "goodForHealth": [
+        "Immune-Boosting, Anti-Inflammatory"
+    ]
+}
+
+24: {
+    "title": "Sesame Ladoo",
+    "description": "Nutritious and energy-boosting ladoos made with sesame seeds and jaggery.",
+    "category": ["Indian", "Dessert", "Energy Boost"],
+    "ingredients": [
+        {
+            "name": "sesame seeds",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "jaggery",
+            "quantity": "1/2 cup, grated"
+        },
+        {
+            "name": "ghee",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "cardamom powder",
+            "quantity": "1/4 tsp"
+        }
+    ],
+    "instructions": [
+        "Dry roast sesame seeds until golden and aromatic. Let them cool.",
+        "Grind roasted sesame seeds with grated jaggery to a coarse powder.",
+        "Heat ghee in a pan and add the sesame-jaggery mixture.",
+        "Add cardamom powder and mix well until it forms a dough-like consistency.",
+        "Remove from heat and let it cool slightly.",
+        "Shape into ladoos while still warm. Allow them to set before serving."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Low Energy"
+    ],
+    "goodForHealth": [
+        "Rich in Iron, Calcium"
+    ]
+}
+
+25: {
+    "title": "Turmeric Chickpea Curry",
+    "description": "A flavorful and nutritious curry made with chickpeas and turmeric, ideal for an anti-inflammatory diet.",
+    "category": ["Indian", "Main Course", "Anti-Inflammatory Diet"],
+    "ingredients": [
+        {
+            "name": "chickpeas (garbanzo beans)",
+            "quantity": "1 can, drained and rinsed"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, finely chopped"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2, chopped"
+        },
+        {
+            "name": "ginger-garlic paste",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "cumin powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "garam masala",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped (for garnish)"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a pan and sauté chopped onions until golden brown.",
+        "Add ginger-garlic paste and chopped tomatoes. Cook until tomatoes are soft.",
+        "Add turmeric powder, coriander powder, cumin powder, garam masala, and salt. Stir well.",
+        "Add drained chickpeas and coconut milk. Simmer for 10-12 minutes until flavors blend.",
+        "Garnish with chopped fresh coriander leaves and serve hot with rice or naan."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Inflammation, Arthritis"
+    ],
+    "goodForHealth": [
+        "Anti-Inflammatory, Plant-Based Protein"
+    ]
+}
