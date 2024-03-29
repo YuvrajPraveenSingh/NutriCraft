@@ -40,6 +40,9 @@
     ],
     "chronicDiseases": [
         "Celiac disease"
+    ],
+    "goodForHealth": [
+        "Fiber and Digestive Health, Antioxidants, Weight Management"
     ]
 }
 
@@ -90,6 +93,9 @@
     ],
     "chronicDiseases": [
         "Heart disease"
+    ],
+    "goodForHealth": [
+        "Omega-3 Fatty Acids, Protein, Vitamins and Minerals, Low Carbohydrates"
     ]
 }
 
@@ -159,6 +165,9 @@
     ],
     "chronicDiseases": [
         "Diabetes"
+    ],
+    "goodForHealth": [
+        "High in Fiber, Rich in Essential Nutrients, Antioxidants, Versatile and Nutrient-Dense"
     ]
 }
 
@@ -224,10 +233,478 @@
         "Serve the stir-fry over cooked rice and garnish with sliced green onions."
     ],
     "allergens": [
-        "Soy"
+        "Soy, Poultry allergies"
     ],
     "chronicDiseases": [
         "Hypertension"
+    ],
+    "goodForHealth": [
+        "Lean Protein, Low in Saturated Fat, Nutrient Diversity, Low Sodium Option"
     ]
 }
 
+5: {
+    "title": "Mango Coconut Smoothie",
+    "description": "A refreshing and tropical mango coconut smoothie for a healthy breakfast or snack.",
+    "category": ["Smoothie", "Breakfast"],
+    "ingredients": [
+        {
+            "name": "ripe mango",
+            "quantity": "1, peeled and diced"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "plain yogurt",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "honey",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "ice cubes",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1 tbsp"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients in a blender.",
+        "Blend until smooth and creamy.",
+        "Pour into glasses and serve immediately."
+    ],
+    "allergens": [
+        "Dairy"
+    ],
+    "chronicDiseases": [
+        "Diabetes"
+    ],
+    "goodForHealth": [
+        "Hydration, Digestive Health, Low in Added Sugar, Potassium-Rich"
+    ]
+}
+
+6: {
+    "title": "Vegetable Biryani",
+    "description": "A flavorful and aromatic Indian rice dish cooked with mixed vegetables and spices.",
+    "category": ["Indian", "Rice Dish"],
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "1 cup, soaked"
+        },
+        {
+            "name": "mixed vegetables (carrots, peas, potatoes, beans)",
+            "quantity": "2 cups, diced"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, sliced"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "ginger-garlic paste",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "garam masala",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "bay leaf",
+            "quantity": "1"
+        },
+        {
+            "name": "cashews",
+            "quantity": "10-12, fried"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        },
+        {
+            "name": "ghee",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Heat ghee in a pan and add cumin seeds and bay leaf.",
+        "Add sliced onions and sauté until golden brown.",
+        "Add ginger-garlic paste, chopped tomatoes, and spices. Cook until the tomatoes are soft.",
+        "Add mixed vegetables and cook for a few minutes.",
+        "In a separate pot, parboil the soaked basmati rice for 5 minutes. Drain and keep aside.",
+        "Layer the cooked vegetables and rice in a pot, alternating layers. Sprinkle fried cashews and chopped coriander leaves between layers.",
+        "Cover and cook on low heat until the rice is fully cooked and aromatic.",
+        "Serve hot with raita (yogurt-based side dish)."
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ],
+    "chronicDiseases": [
+        "hypertension"
+    ],
+    "goodForHealth": [
+        "Nutrient-Rich Vegetables, Whole Grains, Antioxidants, Heart Health"
+    ]
+}
+
+7: {
+    "title": "Chicken Tikka Masala",
+    "description": "A popular Indian chicken dish cooked in a creamy tomato-based sauce with aromatic spices.",
+    "category": ["Indian", "Chicken Dish"],
+    "ingredients": [
+        {
+            "name": "chicken breast",
+            "quantity": "500g, cut into cubes"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "1/2 cup"
+        },
+        {
+            "name": "ginger-garlic paste",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "cumin powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "garam masala",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "red chili powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, finely chopped"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "fresh cream",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "butter",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "kasuri methi (dried fenugreek leaves)",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Marinate chicken cubes in yogurt, ginger-garlic paste, and spices for 2 hours.",
+        "Skewer the marinated chicken and grill or bake until cooked.",
+        "In a pan, heat butter and sauté chopped onions until translucent.",
+        "Add tomato puree, salt, and cook until the oil separates.",
+        "Stir in grilled chicken pieces, fresh cream, and kasuri methi. Simmer for a few minutes.",
+        "Garnish with chopped coriander leaves and serve hot with naan or rice."
+    ],
+    "allergens": [
+        "Dairy, poultry allergies"
+    ],
+    "chronicDiseases": [
+        "Diabetes, Heart disease, Hypertension"
+    ],
+    "goodForHealth": [
+        "Low-Carb Options, Fiber and Nutrients, Antioxidants, Protein Source"
+    ]
+}
+
+8: {
+    "title": "Palak Paneer",
+    "description": "A creamy and nutritious Indian curry made with spinach and paneer (cottage cheese).",
+    "category": ["Indian", "Vegetarian"],
+    "ingredients": [
+        {
+            "name": "paneer (cottage cheese)",
+            "quantity": "250g, cubed"
+        },
+        {
+            "name": "spinach",
+            "quantity": "500g, blanched and pureed"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, finely chopped"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2, chopped"
+        },
+        {
+            "name": "ginger-garlic paste",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "green chili",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "garam masala",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "fresh cream",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "butter",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "kasuri methi (dried fenugreek leaves)",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Heat butter in a pan and add cumin seeds.",
+        "Sauté chopped onions until golden brown.",
+        "Add ginger-garlic paste, chopped tomatoes, and spices. Cook until tomatoes are soft.",
+        "Add spinach puree and cook for a few minutes.",
+        "Stir in cubed paneer, fresh cream, and kasuri methi. Simmer for 5-7 minutes.",
+        "Adjust seasoning and serve hot with roti or rice."
+    ],
+    "allergens": [
+        "Dairy"
+    ],
+    "chronicDiseases": [
+        "Hypertension, Obesity"
+    ],
+    "goodForHealth": [
+        "Heart Health, Fiber and Digestive Health, Antioxidants, Blood and BoneHealth"
+    ]
+}
+
+9: {
+    "title": "Chole",
+    "description": "A flavorful North Indian chickpea curry cooked in aromatic spices.",
+    "category": ["Indian", "Legumes"],
+    "ingredients": [
+        {
+            "name": "chickpeas (kabuli chana)",
+            "quantity": "2 cups, cooked"
+        },
+        {
+            "name": "onion",
+            "quantity": "2, finely chopped"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2, chopped"
+        },
+        {
+            "name": "ginger-garlic paste",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "green chili",
+            "quantity": "2, chopped"
+        },
+        {
+            "name": "cumin seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "garam masala",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "amchur powder (dry mango powder)",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "kasuri methi (dried fenugreek leaves)",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "fresh coriander leaves",
+            "quantity": "Handful, chopped"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a pan and add cumin seeds.",
+        "Sauté chopped onions until golden brown.",
+        "Add ginger-garlic paste, chopped tomatoes, and spices. Cook until tomatoes are soft.",
+        "Add cooked chickpeas and simmer for 10-15 minutes.",
+        "Crush kasuri methi between palms and sprinkle over the curry.",
+        "Garnish with chopped coriander leaves and serve hot with rice or roti."
+    ],
+    "allergens": [
+        "Chickpea allergies"
+    ],
+    "chronicDiseases": [
+        "Hypertension"
+    ],
+    "goodForHealth": [
+        "High in Plant-Based Protein, Rich in Dietary Fiber, Low Glycemic Index, Heart Health, Rich in Vitamins and Minerals"
+    ]
+}
+
+10: {
+    "title": "Masala Dosa",
+    "description": "A South Indian crispy pancake filled with spiced potato filling, served with coconut chutney and sambar.",
+    "category": ["Indian", "Breakfast"],
+    "ingredients": [
+        {
+            "name": "idli rice",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "urad dal (split black gram)",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3, boiled and mashed"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, finely chopped"
+        },
+        {
+            "name": "green chili",
+            "quantity": "2, chopped"
+        },
+        {
+            "name": "mustard seeds",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "curry leaves",
+            "quantity": "8-10"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "asafoetida (hing)",
+            "quantity": "a pinch"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "3 tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        }
+    ],
+    "instructions": [
+        "Soak idli rice and urad dal separately for 6-8 hours. Grind to make a smooth batter.",
+        "Ferment the batter for 8-10 hours until it rises and becomes airy.",
+        "Heat oil in a pan and add mustard seeds. When they splutter, add curry leaves, chopped onions, green chili, turmeric powder, and hing. Sauté until onions are golden brown.",
+        "Add boiled and mashed potatoes, salt, and mix well. Cook for a few minutes to blend flavors.",
+        "Heat a non-stick griddle and pour a ladleful of dosa batter. Spread it thinly to make a dosa.",
+        "Drizzle oil around the edges and cook until golden and crispy. Flip and cook the other side if desired.",
+        "Place a portion of potato masala in the center of the dosa, fold, and serve hot with coconut chutney and sambar."
+    ],
+    "allergens": [
+        "Gluten, Dairy"
+    ],
+    "chronicDiseases": [
+        "Obesity, Diabetes, Cardiovascular diseases"
+    ],
+    "goodForHealth": [
+        "Low in Saturated Fat, Protein from Lentils, Fiber from Fermented Batter"
+    ]
+}
