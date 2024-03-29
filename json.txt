@@ -43,3 +43,52 @@
     ]
 }
 
+2: {
+    "title": "Grilled Salmon with Lemon Butter Sauce",
+    "description": "A delicious grilled salmon recipe with a tangy lemon butter sauce.",
+    "category": ["Seafood", "Grilled"],
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "4 pieces"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "4 tbsp"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2 tsp"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "1/4 tsp"
+        },
+        {
+            "name": "fresh parsley",
+            "quantity": "2 tbsp, chopped"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Season the salmon fillets with salt, pepper, and garlic powder.",
+        "Grill the salmon for 4-5 minutes per side until cooked through.",
+        "In a small saucepan, melt the butter and stir in the lemon juice.",
+        "Pour the lemon butter sauce over the grilled salmon.",
+        "Garnish with fresh parsley before serving."
+    ],
+    "allergens": [
+        "Dairy"
+    ],
+    "chronicDiseases": [
+        "Heart disease"
+    ]
+}
