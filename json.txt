@@ -27,7 +27,7 @@
         "name": "fresh basil",
         "quantity": "Handful, torn"
     }
-],
+    ],
     "instructions": [
         "Cook the pasta according to the packet instructions.",
         "Meanwhile, heat the olive oil in a pan and sauté the onion and garlic until softened.",
