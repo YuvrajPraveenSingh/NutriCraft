@@ -2,8 +2,9 @@ import express from 'express';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import RecipeRoutes from './routes/recipe.routes.js'
+import { EventEmitter } from 'events';
 
-
+EventEmitter.defaultMaxListeners = 20;
 const app = express();
 
 app.use(cookieParser())
