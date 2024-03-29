@@ -92,3 +92,72 @@
         "Heart disease"
     ]
 }
+
+3: {
+    "title": "Vegetarian Lentil Soup",
+    "description": "A hearty and nutritious vegetarian lentil soup packed with vegetables.",
+    "category": ["Soup", "Vegetarian"],
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2, diced"
+        },
+        {
+            "name": "celery",
+            "quantity": "2 stalks, diced"
+        },
+        {
+            "name": "onion",
+            "quantity": "1, chopped"
+        },
+        {
+            "name": "garlic",
+            "quantity": "3 cloves, minced"
+        },
+        {
+            "name": "vegetable broth",
+            "quantity": "4 cups"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "bay leaf",
+            "quantity": "1"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "to taste"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2 tbsp"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add onion, garlic, carrots, and celery. Cook until vegetables are tender.",
+        "Stir in lentils, cumin, paprika, bay leaf, salt, and pepper.",
+        "Pour in vegetable broth and bring to a boil. Reduce heat and simmer for 25-30 minutes.",
+        "Remove bay leaf before serving. Season with more salt and pepper if needed."
+    ],
+    "allergens": [
+        "None"
+    ],
+    "chronicDiseases": [
+        "Diabetes"
+    ]
+}
