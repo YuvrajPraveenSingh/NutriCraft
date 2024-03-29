@@ -155,9 +155,79 @@
         "Remove bay leaf before serving. Season with more salt and pepper if needed."
     ],
     "allergens": [
-        "None"
+        "Salmonallergy"
     ],
     "chronicDiseases": [
         "Diabetes"
     ]
 }
+
+4: {
+    "title": "Chicken Stir-Fry with Vegetables",
+    "description": "A quick and healthy chicken stir-fry loaded with colorful vegetables.",
+    "category": ["Chicken", "Stir-Fry"],
+    "ingredients": [
+        {
+            "name": "chicken breast",
+            "quantity": "2, sliced"
+        },
+        {
+            "name": "bell peppers",
+            "quantity": "1 each, sliced"
+        },
+        {
+            "name": "broccoli florets",
+            "quantity": "1 cup"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2, sliced"
+        },
+        {
+            "name": "soy sauce",
+            "quantity": "3 tbsp"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2 tbsp"
+        },
+        {
+            "name": "garlic",
+            "quantity": "3 cloves, minced"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1 tbsp, minced"
+        },
+        {
+            "name": "cornstarch",
+            "quantity": "1 tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "1/4 cup"
+        },
+        {
+            "name": "rice",
+            "quantity": "2 cups, cooked"
+        },
+        {
+            "name": "green onions",
+            "quantity": "2, sliced"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mix soy sauce, sesame oil, garlic, ginger, cornstarch, and water to make the sauce.",
+        "Heat a large skillet over medium-high heat and add chicken. Cook until no longer pink.",
+        "Add bell peppers, broccoli, and carrots to the skillet. Cook until vegetables are tender-crisp.",
+        "Pour the sauce over the chicken and vegetables. Stir well to coat evenly.",
+        "Serve the stir-fry over cooked rice and garnish with sliced green onions."
+    ],
+    "allergens": [
+        "Soy"
+    ],
+    "chronicDiseases": [
+        "Hypertension"
+    ]
+}
+
