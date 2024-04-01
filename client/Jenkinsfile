@@ -5,7 +5,7 @@ pipeline {
         stage('Build Docker image') {
             steps {
                 script {
-                    bat 'docker build -t nutricraft_image .'
+                    bat 'docker build -t nutricraft_image ./client'
                 }
             }
         }
