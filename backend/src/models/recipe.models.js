@@ -16,7 +16,7 @@ const recipeSchema = new Schema({
     category:{
         type:[String],
         required:true,
-        enum: ['General', 'Vegetarian', 'Vegan', 'Gluten-free', 'Dairy-free', 'Nut-free'],
+        enum: ['General', 'Vegetarian', 'Vegan', 'Gluten-free', 'Dairy-free', 'Nut-free', 'Chicken'],
         default: ["General"]
     },
     ingredients:{
