@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/contact.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <script src="../js/navbar.js"></script>
+
+
+    <title>Contact Us</title>
+    
+  </head>
+  <body>
+    <div id="nav-container"></div>
+    <div class="container">
+      <h2>Contact Us</h2>
+      <form
+        id="contact-form"
+        action="https://formspree.io/f/mjvnjzvl"
+        method="POST"
+      >
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+    <footer>
+      <p>&copy; 2024 NutriCraft. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

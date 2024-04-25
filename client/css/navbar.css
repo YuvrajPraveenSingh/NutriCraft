@@ -1,0 +1,45 @@
+#header {
+  background-color: #fefefe; 
+  padding: 20px; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;  /* Add this line */
+  padding-right: 20px;
+}
+
+
+#title a {
+  text-decoration: none;
+  color: #333; /* Dark gray text color */
+  font-size: 34px; /* Adjust font size */
+  font-weight: bold; /* Bold text */
+  cursor: pointer;
+  z-index: 1; 
+}
+
+/* Style the navigation bar */
+.nav-bar ul {
+  list-style: none; /* Remove default bullet points */
+  display: flex; /* Display list items horizontally */
+  cursor: pointer;
+}
+
+.nav-bar ul li {
+  margin-right: 20px; /* Add spacing between navigation items */
+  cursor: pointer;
+}
+
+.nav-bar ul li:last-child {
+  margin-right: 0; /* Remove margin from last navigation item */
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: #333; /* Dark gray text color */
+  font-size: 18px; /* Adjust font size */
+}
+
+.nav-bar a:hover {
+  color: #802929; /* Change color on hover to black */
+}

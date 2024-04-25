@@ -4,6 +4,7 @@ import { getOneRecipe } from "./getOneRecipe.js";
 import { delete_Recipe } from "./deleteRecipe.js";
 import { update_Recipe } from "./updateRecipe.js";
 import { search_Recipe } from "./searchrecipe.js";
+import { notInclude} from "./notInclude.js";
 
 
 const Create = createRecipe;
@@ -12,5 +13,6 @@ const  getAll = getAllRecipes;
 const getOne = getOneRecipe;
 const deleteRecipe = delete_Recipe;
 const searchrecipe = search_Recipe;
+const AllergyAndDiseaseNotInclude =  notInclude;
 
-export { Create  , getAll , getOne , deleteRecipe , update , searchrecipe};
+export { Create  , getAll , getOne , deleteRecipe , update , searchrecipe , AllergyAndDiseaseNotInclude};

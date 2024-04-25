@@ -1,0 +1,124 @@
+/* Your CSS styles */
+#header {
+}
+
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header */
+#header {
+  background-color: #aae8ae; /* Light gray background */
+  padding: 20px; /* Add padding around the header */
+
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Space out items horizontally */
+}
+
+/* Style the title */
+#title a {
+  text-decoration: none;
+  color: #333; /* Dark gray text color */
+  font-size: 34px; /* Adjust font size */
+  font-weight: bold; /* Bold text */
+}
+
+/* Style the navigation bar */
+.nav-bar ul {
+  list-style: none; /* Remove default bullet points */
+  display: flex; /* Display list items horizontally */
+}
+
+.nav-bar ul li {
+  margin-right: 20px; /* Add spacing between navigation items */
+}
+
+.nav-bar ul li:last-child {
+  margin-right: 0; /* Remove margin from last navigation item */
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: #333; /* Dark gray text color */
+  font-size: 18px; /* Adjust font size */
+}
+
+.nav-bar a:hover {
+  color: #802929; /* Change color on hover to black */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: grid;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+textarea {
+  height: 150px;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

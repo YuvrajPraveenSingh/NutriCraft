@@ -24,7 +24,7 @@ const recipeSchema = new Schema({
         required:true,
         default: [{name:"",quantity:""}]
     },
-    instructions:{
+    instructions:{ 
         type:[String],
         required:true,
         default: []
@@ -38,8 +38,6 @@ const recipeSchema = new Schema({
         type:[String],
         default: []
     },
-
-
     image:{
         type:String,
         required:true,

@@ -23,7 +23,7 @@ function Pagination(model) {
       };
     }
     try {
-      result.results = await model.find().limit(limit).skip(skip);
+      result.results = await model.find().limit(limit).skip(skip).lean();
       res.paginatedResult = result;
       next();
     } catch (error) {
